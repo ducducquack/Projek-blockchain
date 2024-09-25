@@ -94,3 +94,4 @@ for block in my_blockchain.chain:
 
 # Memeriksa apakah blockchain valid
 print(f"Apakah blockchain valid? {my_blockchain.is_chain_valid()}")
+
